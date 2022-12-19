@@ -6,5 +6,3 @@ const total = document.getElementById('total');
 const movieSelect = document.getElementById('movie');
 
 const ticketPrice = movieSelect.value;
-
-console.log(ticketPrice);
